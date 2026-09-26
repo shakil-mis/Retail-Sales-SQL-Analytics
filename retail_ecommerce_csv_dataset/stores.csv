@@ -1,0 +1,11 @@
+store_id,store_name,city,country,store_type,opening_date
+1,Dhaka Central,Dhaka,Bangladesh,Retail,2018-01-10
+2,Dhanmondi Store,Dhaka,Bangladesh,Retail,2019-04-15
+3,Gulshan Store,Dhaka,Bangladesh,Premium,2020-06-20
+4,Chittagong Store,Chittagong,Bangladesh,Retail,2018-08-12
+5,Sylhet Store,Sylhet,Bangladesh,Retail,2019-11-05
+6,Rajshahi Store,Rajshahi,Bangladesh,Retail,2020-02-18
+7,Khulna Store,Khulna,Bangladesh,Retail,2020-09-25
+8,Mymensingh Store,Mymensingh,Bangladesh,Retail,2021-01-15
+9,Online Store,Dhaka,Bangladesh,Online,2020-01-01
+10,Corporate Sales,Dhaka,Bangladesh,Corporate,2021-03-10
